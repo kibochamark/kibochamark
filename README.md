@@ -1,7 +1,3 @@
-Here is a README.md file for your GitHub profile, based on the information in your resume:
-
----
-
 # Hi there, I'm Mark Kibocha 👋
 
 I am a highly skilled backend web developer with extensive experience in crafting robust and versatile APIs. My work focuses on designing and implementing APIs that meet complex business needs, ensuring scalability, security, and efficiency. I enjoy working with a diverse technology stack to deliver high-quality solutions.
