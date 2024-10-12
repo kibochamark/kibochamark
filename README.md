@@ -17,16 +17,15 @@ I am a highly skilled backend web developer with extensive experience in craftin
 A comprehensive blogging system with a dynamic and responsive front-end built using Next.js. The backend APIs were created with Node.js and TypeScript, offering secure and scalable server-side functionalities. Database operations are efficiently managed with Drizzle.
 
 - **Technologies:** Next.js, Node.js, TypeScript, Drizzle, Postman
+### 2. Field Service Management System (Full Stack)
+Built a comprehensive field service management platform using the MERN stack and Next.js. This system empowers companies to efficiently manage their technicians, dispatchers, job scheduling, and payment processes. It includes features such as real-time job tracking, workflow automation, and seamless payment integration, offering businesses an all-in-one solution to streamline operations.
 
-### 2. Nairobi CBD Online Parking Reservation System
-An online parking reservation system developed with Django for the backend, integrated with Mpesa API for payments, and utilizes MySQL for database management. The front end is implemented using HTML, CSS, Bootstrap, and JS. Google Maps API is used for navigation.
+- **Technologies:** Next.js, Node.js, TypeScript, Mongo Db, Prisma, Treblle and Insominia, Tailwind Css
+  
+### 3. Product Configurator Backend System
+Developed a robust backend system using Express, Node.js, TypeScript, and Neon with Drizzle for a dynamic product configurator. This solution allows users to interact with a range of company products, customize configurations, and generate detailed quotes based on their preferences. The system is designed for scalability and performance, supporting complex user requirements and ensuring smooth product customization experiences.
 
-- **Technologies:** Django, MySQL, Mpesa API, Google Maps API, HTML, CSS, JS, Bootstrap
-
-### 3. Attaché Management System
-A web-based system for managing records of attachés in a government agency, overseeing the entire project lifecycle from requirements gathering to deployment.
-
-- **Technologies:** Django, PostgreSQL
+**Technologies:** Node.js, TypeScript, SQL, Drizzle, Treblle and Insominia
 
 ### 4. E-commerce Backend System
 Developed a backend system using Django Rest Framework to manage eCommerce functionalities like product management, order processing, user authentication, and payment integration.
