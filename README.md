@@ -5,7 +5,7 @@ I am a highly skilled backend web developer with extensive experience in craftin
 ## 🛠 Tech Stack
 
 - **Backend Development:** Python, Django, Django Rest Framework, Node.js, .NET (C#)
-- **Frontend Development:** Next.js, ReactJS, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
+- **Frontend Development:** Next.js, ReactJS,TailwindCss, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
 - **Database Management:** PostgreSQL, MySQL, NoSQL, Drizzle ORM
 - **APIs & Integration:** RESTful APIs, Mpesa API, Google Maps API
 - **DevOps & Tools:** Git, Azure DevOps, Postman, SQL
