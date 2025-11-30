@@ -1,56 +1,49 @@
 # Hi there, I'm Mark Kibocha 👋
 
-I am a highly skilled backend web developer with extensive experience in crafting robust and versatile APIs. My work focuses on designing and implementing APIs that meet complex business needs, ensuring scalability, security, and efficiency. I enjoy working with a diverse technology stack to deliver high-quality solutions.
+I’m a backend-focused, language-agnostic software developer who enjoys building scalable, secure, and efficient systems across different stacks. While I’m not fixed to any single language, I frequently build with Python, Node.js, and strongly typed ecosystems such as TypeScript, Next.js, and NestJS. My work revolves around crafting robust APIs, architecting end-to-end platforms, and delivering solutions that are both resilient and developer-friendly.
 
-## 🛠 Tech Stack
+🔧 What I Specialize In
+Backend & API Engineering (Language-Agnostic)
 
-- **Backend Development:** Python, Django, Django Rest Framework, Node.js, .NET (C#)
-- **Frontend Development:** Next.js, ReactJS,TailwindCss, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
-- **Database Management:** PostgreSQL, MySQL, NoSQL, Drizzle ORM
-- **APIs & Integration:** RESTful APIs, Mpesa API, Google Maps API
-- **DevOps & Tools:** Git, Azure DevOps, Postman, SQL
-- **Other Skills:** iOS Development, Data Analysis
+Design and implementation of RESTful APIs with Python (Django + DRF) and TypeScript (Node.js, Next.js, NestJS).
 
-## 📚 Projects
+Strong focus on system architecture, scalability, security, and clean abstractions.
 
-### 1. [Tech Trend Blog Application](https://techtrendblogs.vercel.app)
-A comprehensive blogging system with a dynamic and responsive front-end built using Next.js. The backend APIs were created with Node.js and TypeScript, offering secure and scalable server-side functionalities. Database operations are efficiently managed with Drizzle.
+Comfortable adapting to new languages and frameworks depending on the business problem.
 
-- **Technologies:** Next.js, Node.js, TypeScript, Drizzle, Postman
-### 2. Field Service Management System (Full Stack)
-Built a comprehensive field service management platform using the MERN stack and Next.js. This system empowers companies to efficiently manage their technicians, dispatchers, job scheduling, and payment processes. It includes features such as real-time job tracking, workflow automation, and seamless payment integration, offering businesses an all-in-one solution to streamline operations.
+Databases & Distributed Data Systems
 
-- **Technologies:** Next.js, Node.js, TypeScript, Mongo Db, Prisma, Treblle and Insominia, Tailwind Css
-  
-### 3. Product Configurator Backend System
-Developed a robust backend system using Express, Node.js, TypeScript, and Neon with Drizzle for a dynamic product configurator. This solution allows users to interact with a range of company products, customize configurations, and generate detailed quotes based on their preferences. The system is designed for scalability and performance, supporting complex user requirements and ensuring smooth product customization experiences.
+I’ve worked across both SQL and NoSQL environments including:
 
-**Technologies:** Node.js, TypeScript, SQL, Drizzle, Treblle and Insominia
+Aurora PostgreSQL, AWS Athena, MongoDB, Redis, and Amazon S3 for data storage and analytics.
 
-### 4. E-commerce Backend System
-Developed a backend system using Django Rest Framework to manage eCommerce functionalities like product management, order processing, user authentication, and payment integration.
+Ability to model complex schemas, optimize queries, handle migrations, and build scalable persistence layers.
 
-- **Technologies:** Django Rest Framework, PostgreSQL
+ORMs & Data Access Tools
 
-## 💼 Experience
+Hands-on experience with:
 
-- **Software Developer Trainee at Fintech-group** | Nairobi, KE | 05/2024 - 07/2024
-  - Developed dynamic front-end applications with Next.js and React.
-  - Designed and implemented APIs to support company systems.
+Drizzle ORM, Prisma, and TypeORM
 
-- **Software Developer Intern at Fintech-group** | Nairobi, KE | 09/2023 - 05/2024
-  - Upgraded a legacy VB-based financial system to a modern stack using Next.js and C#.
+Skilled at creating efficient, type-safe, and maintainable database layers.
 
-- **Backend Developer at T-UNT** | Nairobi, Karen | 04/2023 - 06/2023
-  - Contributed to the development of RESTful APIs using Django Rest Framework.
+AI Integrations & Automation (Ongoing Focus)
 
-- **Data Analyst Intern at KPMG** | Nairobi, KE | 02/2023 - 04/2023
-  - Analyzed large datasets to inform business decisions.
+I’m actively expanding into AI engineering, integrating:
 
-- **IT Support Intern at Ministry of Innovation, Communication and Youth Affairs** | Nairobi, KE | 05/2022 - 08/2022
-  - Assisted in network setup, maintenance, and troubleshooting.
+LangGraph
 
-## 📫 Get in Touch
+Open-source LLM SDKs
+
+Agentic workflows in real applications
+
+Currently, I’ve implemented a text-to-SQL AI agent inside a POS system that allows business users to retrieve reports and operational insights on the fly — no technical skills required. This includes natural-language querying, schema-aware SQL generation, and safe data retrieval.
+
+🧩 What Drives Me
+
+I enjoy solving deep backend problems, breaking down complex business logic, and shipping stable features that impact real users. My strength lies in adaptability — whether it's backend architecture, frontend integration, data modeling, devops tasks, or AI-powered automation.
+
+
 
 - **GitHub:** [mark-kibo](https://github.com/mark-kibo)
 - **LinkedIn:** [Mark Kibocha](https://www.linkedin.com/in/mark-kibocha-07b3a8221)
